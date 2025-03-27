@@ -1,0 +1,27 @@
+.mais{
+    height: 200px;
+    width: 150px;
+    background-color: rgb(105, 70, 137);
+    display: block;
+    float: left;
+    margin-left: 350px;
+    margin-top: 200px;
+}
+.menos{
+    height: 200px;
+    width: 150px;
+    background-color: rgb(105, 70, 137);
+    margin-top: 200px;
+}
+.numero{
+    height: 200px;
+    width: 250px;
+    background-color: rgb(183, 75, 250);
+    display: block;
+    float: left;
+    margin-top: 200px;
+}
+.num{
+    font-size: 190px;
+    margin-left: 70px;
+}
